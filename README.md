@@ -29,6 +29,7 @@ This program uses a simple substitution cipher to encrypt and decrypt messages p
 The substitution_cipher.py file contains the main program code. It defines two functions:
 
 ->encrypt(message, chars, key): Encrypts a message using the substitution cipher.
+
 ->decrypt(cipher_text, chars, key): Decrypts a message using the substitution cipher.
 
 The main() function is the entry point for the program. It generates the chars and key lists, prompts the user for input, and calls the encrypt() or decrypt() function depending on the user's choice. The main() function also handles user input validation and looping.
