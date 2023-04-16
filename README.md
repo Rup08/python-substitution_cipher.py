@@ -1,8 +1,7 @@
 # python-substitution_cipher.py
 A simple python program for Encryption and Decryption of a text message
 
-
-                                           <<<<<Substitution Cipher Encryption and Decryption Program>>>>
+<h2>Substitution Cipher Encryption and Decryption Program</h2>
                                                       
 This program uses a simple substitution cipher to encrypt and decrypt messages provided by the user. The program generates a random key by shuffling a list of characters that includes punctuation marks, digits, and letters.
 
